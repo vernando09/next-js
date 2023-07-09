@@ -1,0 +1,63 @@
+#formedit{
+    background-color: #e3a30e;
+    width:600px;
+    border-spacing: 0;
+    border-radius: 12px;
+    font-size: 18px;
+}
+
+#formadd{
+    background-color: #03fc8c;
+    width:600px;
+    border-spacing: 0;
+    border-radius: 12px;
+}
+
+#formadd table input{
+    width:80%;
+    height: 30px;
+}
+
+#formedit table input{
+    width:90%;
+    height: 30px;
+}
+
+.show{
+    display: inline, !important;
+}
+
+.hide{
+    display: none;
+}
+
+.dekorasi-table{
+    width: 40%;
+    background-color: yellowgreen;
+    color: white;
+    font-size: 18px;
+    text-Align: center;
+    font:'calibri';
+    color:"white";
+}
+
+.bg{
+    height: 100vh;
+    background-image: url('../gambar/bg.jpg');
+    background-size: cover;
+
+}
+
+.desain{
+    background-color: yellowgreen;
+    border-radius: 5px;
+    color: white;
+    padding: 25px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
